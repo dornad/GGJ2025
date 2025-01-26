@@ -23,7 +23,6 @@ Pulp allows developers to create pixel-art-based games with interactive story el
 # To-Do List
 
 ## 📅 Inbox
-- [ ] Fix: Game crashes when duck gets to the top/bottom of the screen.
 - [ ] We only have one hardcoded Duck - we should generate them randomly.
 - [ ] Define the winning scenario. 
   - How many ducks should be "floated" for the winning scenario.
@@ -34,8 +33,8 @@ Pulp allows developers to create pixel-art-based games with interactive story el
 - [ ] Upload an executable (`.pdx`) of the game in here.
 
 ## 🌟 Completed
+- [x] Fix: Game crashes when duck gets to the top/bottom of the screen.
 - [x] Use the crank to move the captured duck
 - [x] Duck should be intercepted by player (bubble)
 - [x] Duck should disappear when reaching left side of the screen
 - [x] Duck should move from right to left
-
