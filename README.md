@@ -24,6 +24,7 @@ Pulp allows developers to create pixel-art-based games with interactive story el
 
 ## 📅 Inbox
 - [ ] We only have one hardcoded Duck - we should generate them randomly.
+- [ ] Make crank adjustable to set turns per sprite movement (duck movement once captured!)
 - [ ] Define the winning scenario. 
   - How many ducks should be "floated" for the winning scenario.
   - Loosing scenario?  How many ducks should make it to the left for game over?
