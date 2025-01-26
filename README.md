@@ -25,8 +25,9 @@ Pulp allows developers to create pixel-art-based games with interactive story el
 ## 📅 Inbox
 - [ ] Fix: Game crashes when duck gets to the top/bottom of the screen.
 - [ ] We only have one hardcoded Duck - we should generate them randomly.
-- [ ] Define the winning/losing scenario. 
+- [ ] Define the winning scenario. 
   - How many ducks should be "floated" for the winning scenario.
+  - Loosing scenario?  How many ducks should make it to the left for game over?
 - [ ] Prepare GGJ submission
 
 ## 🤔 Maybe
