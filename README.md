@@ -1,5 +1,5 @@
 # GGJ2025
-Repository for my entry to GGJ-2025.
+An entry to the 2025 Global Game Jam.
 
 # About this Game
 
