@@ -1,5 +1,7 @@
 # GGJ2025
-An entry to the 2025 Global Game Jam.  The original version of this game was made in [Playdate Pulp](https://play.date/pulp/), a simple, browser-based game creation tool designed for the [Playdate handheld console](https://play.date/)
+An entry to the 2025 Global Game Jam.  
+
+The original version of this game was made in [Playdate Pulp](https://play.date/pulp/), a simple, browser-based game creation tool designed for the [Playdate handheld console](https://play.date/)
 
 ## How to Install and Play
 
