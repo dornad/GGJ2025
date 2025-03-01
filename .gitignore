@@ -1,1 +1,5 @@
+# Builds Folder
 builds/
+
+# Playdate PDX files
+*.pdx
